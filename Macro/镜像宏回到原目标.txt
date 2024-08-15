@@ -1,0 +1,9 @@
+#showtooltip 您的瞬发法术
+/stopcasting
+/cleartarget
+/targetexact 镜像
+/targetexact 裹体之网
+/cast 您的瞬发法术
+/petattack 裹体之网
+/targetlasttarget
+/targetlasttarget [@target,noexists]
